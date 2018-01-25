@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"ESLint",
+		"HTML-CSS-JS Prettify",
+		"JSLint",
+		"LESS",
+		"Less2Css",
+		"Material Theme",
+		"Package Control",
+		"Vue Syntax Highlight"
+	]
+}
